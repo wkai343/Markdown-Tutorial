@@ -6,7 +6,6 @@ Markdown相当于简化了的HTML的一种标记语言。其简单高效，易�
 
 Tutorial
 分为基本语法和扩展语法和html(Todo)
-总体顺序是基础，表和块，链接
 
 Tools
 列举实用工具
